@@ -20,15 +20,15 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-collection"
+            "url": "https://github.com/sirenergies/ia-collection"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-arr"
+            "url": "https://github.com/sirenergies/ia-arr"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-str"
+            "url": "https://github.com/sirenergies/ia-str"
         }
     ],
     "require": {
